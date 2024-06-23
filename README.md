@@ -2,7 +2,7 @@
 
 # Crowdfunding Campaign Analysis Using Feature Engineering
 
-This project involves analyzing crowdfunding campaign data to predict the success of campaigns based on various features. The dataset includes details such as goal amount, pledged amount, backers count, and more.
+Practice in feature engineering to assist in analyzing crowdfunding campaign data to predict the success of campaigns based on various features. The dataset includes details such as goal amount, pledged amount, backers count, and more.
 
 ## Dataset Information
 
